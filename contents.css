@@ -1,0 +1,117 @@
+/* 헤더 */
+header{
+    margin: auto;
+    width: 1300px;
+    position: relative;
+}
+#walkin{
+    font-family: '닉스곤체 m 2.0';
+    font-size: 50px;
+}
+#blue{
+    padding: 13px 0px;
+    background-color: #011279;
+    position: absolute;
+    width: 1100px;
+    top: 0px;
+    left: 14%;
+    font-size: 25px;
+    font-family: '닉스곤체 m 2.0';
+    text-align: center;
+}
+#blue a{
+    color: white;
+    margin: 0px 60px ;
+}
+/* 메인 */
+.inner-container1{
+    position: relative;
+}
+#logo1{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    font-family: '닉스곤체 b 2.0';
+    font-size: 50px;
+}
+
+.allbb{
+    position: relative;    
+}
+.blue1{
+    position: absolute;
+    top: 300px;
+    left: 800px;    
+    background-color: #011279;
+    color: white;
+    font-family: '닉스곤체 m 2.0';
+    border-radius: 10%;
+}
+.blue2{
+    position: absolute;
+    top: 500px;
+    left: 200px; 
+    background-color: #011279;
+    color: white;
+    font-family: '닉스곤체 m 2.0';
+    border-radius: 10%;
+}
+.blue3{
+    position: absolute;
+    top: 700px;
+    left: 800px;
+    background-color: #011279;
+    color: white;
+    font-family: '닉스곤체 m 2.0';
+    border-radius: 10%;
+}
+.title3{
+    font-size: 40px;
+    padding: 20px;
+}
+.contents3{
+    font-size: 25px;
+    padding: 20px;
+}
+/* 워크인 이야기 */
+.inner-container2{
+    margin: auto;
+    width: 900px;
+}
+#story{
+    text-align: center;
+    margin-top: 1200px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: '닉스곤체 m 2.0';
+    color: #011279;
+    
+}
+#gel{
+    display: flex;
+}
+.gel{
+    border: 4px solid #011279;
+    width: 400px;
+    position: relative;
+    height: 400px;
+    margin: 20px 0px;
+}
+.gel1{
+    border: 4px solid #011279;
+    width: 400px;
+    margin-left: 50px;
+    position: relative;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.gel2{
+    border: 4px solid #011279;
+    width: 400px;
+    margin-left: 50px;
+    position: relative;
+    height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
