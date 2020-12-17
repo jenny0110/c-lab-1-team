@@ -71,14 +71,14 @@ header{
 }
 .name{
     font-family: '닉스곤체 m 2.0';
-    font-size: 27px;
+    font-size: 24px;
 }
 .role{
     font-family: '닉스곤체 m 2.0';
     position: absolute;
     color: gray;
     left: 50px;
-    top: 10px;
+    top: 9px;
     font-size: 14px;
 }
 .t1{
@@ -87,12 +87,14 @@ header{
     padding: 6px;
     padding-top: 15px;
     padding-left: 2px;
+    line-height: 22px;
 }
 .t2{
     font-family: '닉스곤체 l 2.0';
     font-size: 17px;
     padding: 6px;
     padding-left: 2px;
+    line-height: 22px;
 }
 .t3{
     font-family: '닉스곤체 l 2.0';
@@ -153,6 +155,7 @@ header{
     border-radius: 35%;
 }
 .txt{
-    padding: 120px 20px;
+    padding: 115px 20px;
     font-size: 23px;
+    line-height: 30px;
 }
