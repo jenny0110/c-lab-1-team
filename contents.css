@@ -7,6 +7,7 @@ header{
 #walkin{
     font-family: '닉스곤체 m 2.0';
     font-size: 50px;
+    color: #011279;
 }
 #blue{
     padding: 13px 0px;
@@ -31,8 +32,9 @@ header{
     position: absolute;
     top: 100px;
     left: 150px;
-    font-family: '닉스곤체 b 2.0';
+    font-family: '닉스곤체 m 2.0';
     font-size: 50px;
+    line-height: 60px;
 }
 
 .allbb{
@@ -72,6 +74,7 @@ header{
 .contents3{
     font-size: 25px;
     padding: 20px;
+    line-height: 30px;
 }
 /* 워크인 이야기 */
 .inner-container2{
