@@ -21,10 +21,12 @@ nav a{
 }
 
 #logo-box{
-    width: 400px;
-    height: 350px;
     background-color: #011279;
     position: absolute;
     top: 30%;
     left: 50%;
+}
+#logo-box img{
+    width: 400px;
+    height: 350px;
 }
