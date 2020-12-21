@@ -23,6 +23,8 @@ header{
 #blue a{
     color: white;
     margin: 0px 60px ;
+    text-decoration: none;
+
 }
 
 /* 멤버소개 */
@@ -137,6 +139,12 @@ header{
     color: white;
     border-radius: 35%;
 }
+.circle1:hover{
+    color: #011279;
+    background-color: white;
+    border:solid 2px #011279;
+    transition: 0.3s;
+}
 .circle2{
     width: 300px;
     height: 280px;
@@ -144,6 +152,12 @@ header{
     color: white;
     margin-left: 100px;
     border-radius: 35%;
+}
+.circle2:hover{
+    color: #011279;
+    background-color: white;
+    border:solid 2px #011279;
+    transition: 0.3s;
 }
 .circle3{
     position: absolute;
@@ -153,6 +167,12 @@ header{
     color: white;
     right: 0px;
     border-radius: 35%;
+}
+.circle3:hover{
+    color: #011279;
+    background-color: white;
+    border:solid 2px #011279;
+    transition: 0.3s;
 }
 .txt{
     padding: 115px 20px;

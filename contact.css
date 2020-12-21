@@ -23,6 +23,8 @@ header{
 #blue a{
     color: white;
     margin: 0px 60px ;
+    text-decoration: none;
+
 }
 /* main */
 .inner-container{
@@ -38,4 +40,10 @@ header{
 }
 .main{
     font-size: 30px;
+}
+.disign-box:hover{
+    color: white;
+    background-color: #011279;
+    /* background-color: rgb(191, 213, 255); */
+    transition: 0.3s;
 }
