@@ -36,14 +36,28 @@ header{
 .title{
     margin-top: 60px;
     margin-bottom: 30px;
-    font-size: 50px;
-}
-.main{
     font-size: 30px;
 }
-.disign-box:hover{
+.main{
+    font-size: 20px;
+}
+.disign-box1:hover{
     color: white;
     background-color: #011279;
-    /* background-color: rgb(191, 213, 255); */
+    transition: 0.3s;
+}
+.disign-box2:hover{
+    color: white;
+    background-color: #011279;
+    transition: 0.3s;
+}
+.disign-box3:hover{
+    color: white;
+    background-color: #011279;
+    transition: 0.3s;
+}
+.disign-box4:hover{
+    color: white;
+    background-color: #011279;
     transition: 0.3s;
 }
