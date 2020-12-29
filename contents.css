@@ -122,3 +122,11 @@ main{
     border-bottom: 500px solid#fff;
     border-left: 500px solid #fff;
 }
+#img img{
+    width: 90%;
+}
+#img{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
